@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "computer-vision-machine-learning", "Assembly-CSharp.csproj", "{5B673EA8-09E7-5651-917A-C274EC2A1087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "computer-vision-machine-learning", "Assembly-CSharp-Editor.csproj", "{B7F3C55A-9823-0A06-CE8B-4F9E7DCC2098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B673EA8-09E7-5651-917A-C274EC2A1087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B673EA8-09E7-5651-917A-C274EC2A1087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B673EA8-09E7-5651-917A-C274EC2A1087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B673EA8-09E7-5651-917A-C274EC2A1087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F3C55A-9823-0A06-CE8B-4F9E7DCC2098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F3C55A-9823-0A06-CE8B-4F9E7DCC2098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F3C55A-9823-0A06-CE8B-4F9E7DCC2098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F3C55A-9823-0A06-CE8B-4F9E7DCC2098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
